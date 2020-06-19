@@ -1,0 +1,3 @@
+merge와 non-merge의 차이점을 한번 배우자
+index.jsp와 함께 코드가 적혀야 작동이 된다
+

@@ -1,3 +1,4 @@
 merge와 non-merge의 차이점을 한번 배우자
 index.jsp와 함께 코드가 적혀야 작동이 된다
 
+이건 일단 reset했는데 그냥 잘 해결되겠네;
